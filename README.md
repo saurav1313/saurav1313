@@ -1,7 +1,11 @@
-🌱 I’m currently learning: Data Structure & Algorithms, JDBC
-📫 How to reach me: sauravsuman1313@gmail.com
-😄 Pronouns: Suman Saurav
-⚡ Fun fact: I Love Tech and Tech Love Me
+<p align="center">
+  👋 Hey there, I'm Suman Saurav! <br><br>
+  🌱 <b>Currently Learning</b>: Data Structures & Algorithms, JDBC <br>
+  📫 <b>Reach me at</b>: sauravsuman1313@gmail.com <br>
+  😄 <b>Pronouns</b>: Suman Saurav <br>
+  ⚡ <b>Fun Fact</b>: I Love Tech and Tech Loves Me 💙
+</p>
+
 
 <!-- Coding GIF on Right Side -->
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/saurav1313/saurav1313/main/assets/coding.gif" />
