@@ -1,3 +1,8 @@
+🌱 I’m currently learning: Data Structure & Algorithms, JDBC
+📫 How to reach me: sauravsuman1313@gmail.com
+😄 Pronouns: Suman Saurav
+⚡ Fun fact: I Love Tech and Tech Love Me
+
 <!-- Coding GIF on Right Side -->
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/saurav1313/saurav1313/main/assets/coding.gif" />
 
