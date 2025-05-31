@@ -1,5 +1,7 @@
 <!-- Coding GIF on Right Side -->
 <img align="right" alt="coding" width="400" src="https://github.com/saurav1313/saurav1313/blob/main/assets/coding.gif" />
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/saurav1313/saurav1313/main/assets/coding.gif" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
