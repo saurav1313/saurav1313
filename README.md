@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suman Saurav</h1>
 
 <p align="center">
-  🌱 <b>Currently Learning</b>: Data Structures & Algorithms, JDBC <br>
+  🌱 <b>Currently Learning</b>: Data Structures & Algorithms, Servlet <br>
   📫 <b>Reach me at</b>: sauravsuman1313@gmail.com <br>
   😄 <b>Pronouns</b>: Suman Saurav <br>
   ⚡ <b>Fun Fact</b>: I Love Tech and Tech Loves Me 💙
