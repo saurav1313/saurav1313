@@ -7,25 +7,27 @@
   ⚡ <b>Fun Fact</b>: I Love Tech and Tech Loves Me 💙
 </p>
 
-<!-- Coding Image -->
+<!-- Coding GIF -->
 <p align="center">
-  <img alt="Coder GIF" height="250" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+  <img alt="Coder GIF" height="250" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" />
 </p>
 
 ---
 
 ### 🌐 Connect with me:
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/suman-saurav-892643213/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Suman Saurav" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/sauravtechy/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
   <a href="https://codeforces.com/profile/saurav1313" target="_blank">
-   <a href="https://www.geeksforgeeks.org/user/user_b9p8pbf84wv/" target="_blank">
-    
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - sauravtechy" height="30" width="40" />
+    <img src="https://sta.codeforces.com/s/19642/images/codeforces-logo-with-telegram.png" alt="Codeforces" height="30" width="40" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/user_b9p8pbf84wv/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </p>
 
@@ -33,7 +35,7 @@
 
 ### 🛠️ Languages and Tools:
 
-<p align="left">
+<p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
@@ -49,16 +51,16 @@
 
 ### 📊 GitHub Stats:
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurav1313&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saurav1313&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saurav1313&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saurav1313&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav1313" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurav1313" alt="GitHub Streak" />
 </p>
 
 ---
@@ -66,7 +68,7 @@
 ### 🐍 GitHub Snake Contribution Game:
 
 <p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
