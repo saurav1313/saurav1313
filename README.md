@@ -22,6 +22,9 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/sauravtechy/" target="_blank">
+  <a href="https://codeforces.com/profile/saurav1313" target="_blank">
+   <a href="https://www.geeksforgeeks.org/user/user_b9p8pbf84wv/" target="_blank">
+    
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - sauravtechy" height="30" width="40" />
   </a>
 </p>
